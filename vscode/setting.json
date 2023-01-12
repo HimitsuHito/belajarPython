@@ -1,7 +1,9 @@
 {
     "editor.fontSize" : 24,
-    "editor.zoomLevel": 1,
+    "editor.zoomLevel" :  1,
     "terminal.integrated.fontSize" :18,
-    "workbench.iconTheme" :vscode-icons,
+    "workbench.iconTheme" :vscode-icons ,
 }
+
+
 
